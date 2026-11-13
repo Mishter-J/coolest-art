@@ -4,12 +4,12 @@
 [![rank](https://make.fun/badge/coolest-art-01/Mishter-J/coolest-art/rank.svg)](https://make.fun/bounty/coolest-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=coolest-art-01)
 [![reward](https://make.fun/badge/coolest-art-01/Mishter-J/coolest-art/reward.svg)](https://make.fun/bounty/coolest-art-01?utm_source=github&utm_medium=readme&utm_campaign=coolest-art-01)
 
-A cyberpunk samurai wolf in neon rain — chrome armor, glowing eyes, katana on its back. The program copies the bundled art to /output/entry.png.
+A kind grandmother knitting the crescent moon back together with golden wool, written to /output/entry.png by a tiny Python program.
 
 ## Run it
 
 ```sh
-python3 main.py
+MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
 ---

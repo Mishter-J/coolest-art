@@ -1,6 +1,7 @@
-"""Coolest-art-01 entry: write the bundled art to /output/entry.png.
+"""Coolest-art-01 resubmission: write the bundled art to /output/entry.png.
 
-The art is the cool.png file shipped beside this program. The program
+The art is the cool.png file shipped beside this program — a grandmother
+knitting the crescent moon back together with golden wool. The program
 just copies it, so the output is byte-for-byte identical on every run.
 
 Standard library only. No network access, no randomness, no arguments.
